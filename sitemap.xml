@@ -119,15 +119,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/en/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yoursite-url/archive/index.html</loc>
     
     <lastmod>2017-03-20</lastmod>
@@ -153,13 +144,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2024-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/</loc>
@@ -190,13 +174,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2024-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>http://yoursite-url/categories/%E5%AD%A6%E4%B9%A0%E6%83%85%E5%86%B5/</loc>
